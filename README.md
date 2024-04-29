@@ -1,35 +1,33 @@
-- 👋 Hi, I’m @Vinoth S
-- 👀 I’m interested in Devops 
+# Hi there! 👋 I'm Vinoth
+
+Aspiring DevOps Engineer | Passionate about automation, CI/CD, and cloud technologies
+
 - 🌱 I’m currently learning Devops Culture
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-# DevOps Engineer - Vinoth
-
-## Introduction
-Welcome to my GitHub profile! I'm Vinoth, a DevOps Engineer passionate about automating processes, optimizing infrastructure, and ensuring the seamless delivery of software applications.
-
+  
 ## About Me
-I have a strong background in both software development and system administration, allowing me to bridge the gap between development and operations teams. I thrive in dynamic environments where I can leverage my technical skills to drive continuous improvement and streamline operations.
+I'm a recent graduate with a strong interest in DevOps practices. I believe in continuous learning and enjoy solving complex problems. Here are some key highlights:
 
 ## Skills
 - **Continuous Integration/Continuous Deployment (CI/CD)**: 
-  ![CI/CD](https://img.icons8.com/color/48/000000/jenkins.png) ![CI/CD](https://img.icons8.com/color/48/000000/gitlab.png) ![CI/CD](https://img.icons8.com/color/48/000000/travis-ci.png)
+  ![CI/CD](https://img.icons8.com/color/48/000000/jenkins.png) 
 - **Configuration Management**: 
-  ![Configuration Management](https://img.icons8.com/color/48/000000/ansible.png) ![Configuration Management](https://img.icons8.com/color/48/000000/puppet.png) ![Configuration Management](https://img.icons8.com/color/48/000000/chef.png)
+  ![Configuration Management](https://img.icons8.com/color/48/000000/ansible.png) 
 - **Containerization**: 
   ![Containerization](https://img.icons8.com/color/48/000000/docker.png) ![Containerization](https://img.icons8.com/color/48/000000/kubernetes.png)
 - **Infrastructure as Code (IaC)**: 
-  ![Infrastructure as Code](https://img.icons8.com/color/48/000000/terraform.png) ![Infrastructure as Code](https://img.icons8.com/color/48/000000/cloud-formation.png)
+  ![Infrastructure as Code](https://img.icons8.com/color/48/000000/terraform.png) 
 - **Monitoring and Logging**: 
-  ![Monitoring and Logging](https://img.icons8.com/color/48/000000/prometheus.png) ![Monitoring and Logging](https://img.icons8.com/color/48/000000/grafana.png) ![Monitoring and Logging](https://img.icons8.com/color/48/000000/elk.png)
+  ![Monitoring and Logging](https://img.icons8.com/color/48/000000/prometheus.png) ![Monitoring and Logging](https://img.icons8.com/color/48/000000/grafana.png) 
 - **Cloud Platforms**: 
-  ![Cloud Platforms](https://img.icons8.com/color/48/000000/aws.png) ![Cloud Platforms](https://img.icons8.com/color/48/000000/azure.png) ![Cloud Platforms](https://img.icons8.com/color/48/000000/google-cloud-platform.png)
+  ![Cloud Platforms](https://th.bing.com/th/id/OIP.b_al7C5p26tbZG4sy-CWqwAAAA?rs=1&pid=ImgDetMain) 
 - **Scripting and Automation**: 
   ![Scripting and Automation](https://img.icons8.com/color/48/000000/bash.png) ![Scripting and Automation](https://img.icons8.com/color/48/000000/python.png) ![Scripting and Automation](https://img.icons8.com/color/48/000000/powershell.png)
 - **Version Control**: 
-  ![Version Control](https://img.icons8.com/color/48/000000/git.png)
+  ![Version Control](https://img.icons8.com/color/48/000000/git.png) (https://cdn-ak.f.st-hatena.com/images/fotolife/l/liszworks/20180420/20180420193235.png)
 
 ## Projects
 - **Automated Deployment Pipeline**: Designed and implemented a fully automated CI/CD pipeline using Jenkins, Docker, and Kubernetes, reducing deployment times by 50%.
