@@ -23,7 +23,7 @@ I'm a recent graduate with a strong interest in DevOps practices. I believe in c
 - **Monitoring and Logging**: 
   ![Monitoring and Logging](https://img.icons8.com/color/48/000000/prometheus.png) ![Monitoring and Logging](https://img.icons8.com/color/48/000000/grafana.png) 
 - **Cloud Platforms**: 
-  ![Cloud Platforms](https://th.bing.com/th/id/OIP.b_al7C5p26tbZG4sy-CWqwAAAA?rs=1&pid=ImgDetMain) 
+  ![Cloud Platforms] ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 - **Scripting and Automation**: 
   ![Scripting and Automation](https://img.icons8.com/color/48/000000/bash.png) ![Scripting and Automation](https://img.icons8.com/color/48/000000/python.png) ![Scripting and Automation](https://img.icons8.com/color/48/000000/powershell.png)
 - **Version Control**: 
@@ -36,7 +36,7 @@ I'm a recent graduate with a strong interest in DevOps practices. I believe in c
 - **Monitoring and Alerting Setup**: Implemented monitoring and alerting solutions using Prometheus and Grafana, enabling proactive monitoring of infrastructure and applications.
 
 ## Contact Me
-Feel free to reach out to me via [email](mailto:vinoth@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/vinothdevops/). I'm always open to discussing new opportunities and collaborations.
+Feel free to reach out to me via [email](mailto:vinoth89398@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/vinothdevops/). I'm always open to discussing new opportunities and collaborations.
 
 Let's build and automate together!
 
