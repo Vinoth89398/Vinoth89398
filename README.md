@@ -21,13 +21,14 @@ I'm a recent graduate with a strong interest in DevOps practices. I believe in c
 - **Infrastructure as Code (IaC)**: 
   ![Infrastructure as Code](https://img.icons8.com/color/48/000000/terraform.png) 
 - **Monitoring and Logging**: 
-  ![Monitoring and Logging]![Prometheus](https://img.icons8.com/color/48/000000/prometheus.png) ![Monitoring and Logging](https://img.icons8.com/color/48/000000/grafana.png) 
+  ![Monitoring and Logging]!![Prometheus](https://img.icons8.com/ios-filled/50/000000/prometheus.png) ![Monitoring and Logging](https://img.icons8.com/color/48/000000/grafana.png) 
 - **Cloud Platforms**: 
   ![Cloud Platforms] ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 - **Scripting and Automation**: 
   ![Scripting and Automation](https://img.icons8.com/color/48/000000/bash.png) ![Scripting and Automation](https://img.icons8.com/color/48/000000/python.png) ![Scripting and Automation](https://img.icons8.com/color/48/000000/powershell.png)
 - **Version Control**: 
-  ![Version Control](https://img.icons8.com/color/48/000000/git.png) ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+  ![Version Control](https://img.icons8.com/color/48/000000/git.png) ![SVN](https://img.icons8.com/color/48/000000/svn.png)
+
 
 ## Projects
 - **Automated Deployment Pipeline**: Designed and implemented a fully automated CI/CD pipeline using Jenkins, Docker, and Kubernetes, reducing deployment times by 50%.
